@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUzandkamN0b24ydGo4dWdvNDhtZjVocGdtMWpzY2t2aTc1ejhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/></p>
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUzandkamN0b24ydGo4dWdvNDhtZjVocGdtMWpzY2t2aTc1ejhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/></p>
 <p align="center">
 
 <div id="badges" align ="center">
