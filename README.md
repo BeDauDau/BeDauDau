@@ -1,7 +1,11 @@
 
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUzandkamN0b24ydGo4dWdvNDhtZjVocGdtMWpzY2t2aTc1ejhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/></p>
 <p align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/v%C3%B5-h%E1%BB%AFu-tr%E1%BB%8Dng-5b47532b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
